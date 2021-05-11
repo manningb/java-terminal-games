@@ -2,7 +2,8 @@
 <br />
 <p align="center">
 
-<img src="screenshots/1.jpg" alt="Logo" width="80" height="80">
+<img src="screenshots/1.jpg" alt="Logo">
+
 
 <h3 align="center">Java Terminal Games</h3>
 
@@ -44,8 +45,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+### Blackjack!
 <img src="screenshots/2.jpg" alt="Logo"><br>
+
+### Coin Flipping!
 <img src="screenshots/4.jpg" alt="Logo"><br>
+
+### Leaderboard
 <img src="screenshots/3.jpg" alt="Logo"><br>
 
 
